@@ -1,0 +1,65 @@
+[
+  {
+    "id": "F01",
+    "plataforma": "Facebook",
+    "cuenta": "EMI UALP - página oficial",
+    "url": "https://www.facebook.com/EMIBolivia",
+    "tipo": "Publicaciones y comentarios",
+    "estado": "Conectada",
+    "registros": 775
+  },
+  {
+    "id": "F02",
+    "plataforma": "Facebook",
+    "cuenta": "Confesiones EMI",
+    "url": "https://www.facebook.com/p/Confesiones-EMI",
+    "tipo": "Publicaciones y comentarios",
+    "estado": "Conectada",
+    "registros": 312
+  },
+  {
+    "id": "F03",
+    "plataforma": "Facebook",
+    "cuenta": "Confesiones EMI 2.0",
+    "url": "https://www.facebook.com/p/Confesiones-EMI-2.0",
+    "tipo": "Publicaciones y comentarios",
+    "estado": "Conectada",
+    "registros": 128
+  },
+  {
+    "id": "G01",
+    "plataforma": "Google Maps",
+    "cuenta": "EMI UALP - Rafael Pabón, La Paz",
+    "url": "https://www.google.com/maps/place/EMI+La+Paz",
+    "tipo": "Reseñas con calificación",
+    "estado": "Conectada",
+    "registros": 229
+  },
+  {
+    "id": "F04",
+    "plataforma": "Facebook",
+    "cuenta": "CONFESIONES EMI 3",
+    "url": "https://www.facebook.com/profile.php?id=100063576877118",
+    "tipo": "Publicaciones y comentarios",
+    "estado": "Conectada",
+    "registros": 0
+  },
+  {
+    "id": "F05",
+    "plataforma": "Facebook",
+    "cuenta": "emi",
+    "url": "https://www.facebook.com/profile.php?id=100063576877118",
+    "tipo": "Publicaciones y comentarios",
+    "estado": "Conectada",
+    "registros": 0
+  },
+  {
+    "id": "F06",
+    "plataforma": "Facebook",
+    "cuenta": "EMI 3",
+    "url": "https://www.facebook.com/profile.php?id=100063576877118",
+    "tipo": "Publicaciones y comentarios",
+    "estado": "Conectada",
+    "registros": 0
+  }
+]

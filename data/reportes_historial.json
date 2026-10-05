@@ -1,0 +1,63 @@
+[
+  {
+    "nombre": "reporte_20260922_101143",
+    "titulo": "Reporte de Percepción Institucional — EMI UALP",
+    "fecha": "2026-09-22 10:11:43",
+    "periodo": "Último trimestre",
+    "fuente": "Todas las fuentes",
+    "dirigido_a": "Dirección Académica EMI-UALP",
+    "formato": "PDF",
+    "registros": 54,
+    "archivo_pdf": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260922_101143.pdf",
+    "archivo_csv": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260922_101143.csv"
+  },
+  {
+    "nombre": "reporte_20260916_154813",
+    "titulo": "Reporte de Percepción Institucional — EMI UALP",
+    "fecha": "2026-09-16 15:48:14",
+    "periodo": "Último trimestre",
+    "fuente": "Todas las fuentes",
+    "dirigido_a": "Dirección Académica EMI-UALP",
+    "formato": "PDF",
+    "registros": 54,
+    "archivo_pdf": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260916_154813.pdf",
+    "archivo_csv": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260916_154813.csv"
+  },
+  {
+    "nombre": "reporte_20260915_143126",
+    "titulo": "Reporte de Percepción Institucional — EMI UALP",
+    "fecha": "2026-09-15 14:31:26",
+    "periodo": "Último trimestre",
+    "fuente": "Todas las fuentes",
+    "dirigido_a": "Dirección Académica EMI-UALP",
+    "formato": "PDF",
+    "registros": 54,
+    "archivo_pdf": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260915_143126.pdf",
+    "archivo_csv": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260915_143126.csv"
+  },
+  {
+    "nombre": "reporte_20260915_143019",
+    "titulo": "Reporte de Percepción Institucional — EMI UALP",
+    "fecha": "2026-09-15 14:30:19",
+    "periodo": "Último trimestre",
+    "fuente": "Todas las fuentes",
+    "dirigido_a": "Dirección Académica EMI-UALP",
+    "formato": "PDF",
+    "registros": 54,
+    "archivo_pdf": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260915_143019.pdf",
+    "archivo_csv": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260915_143019.csv"
+  },
+  {
+    "nombre": "reporte_20260915_140828",
+    "titulo": "Reporte de Percepción Institucional — EMI UALP",
+    "fecha": "2026-09-15 14:08:28",
+    "periodo": "Último trimestre",
+    "fuente": "Todas las fuentes",
+    "dirigido_a": "Dirección Académica EMI-UALP",
+    "formato": "PDF",
+    "registros": 54,
+    "archivo_pdf": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260915_140828.pdf",
+    "archivo_csv": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260915_140828.csv",
+    "archivo_txt": "C:\\Users\\dell\\Documents\\PROYECTO\\emi-percepcion\\data\\processed\\reporte_20260915_140828.txt"
+  }
+]

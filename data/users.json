@@ -1,0 +1,29 @@
+{
+    "admin": {
+        "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+        "nombre": "Administrador del Sistema",
+        "cargo": "Jefe de UTIC",
+        "rol": "SuperAdmin",
+        "estado": true,
+        "fecha_creacion": "2026-...",
+        "ultimo_acceso": "2026-10-05T09:20:14.491818"
+    },
+    "admin1": {
+        "password": "f45c251e72cd4f1090ad4be1863aa0481fde71976fe7c590f6133482d0ba6d05",
+        "nombre": "admin uno",
+        "cargo": "Administrador",
+        "rol": "Administrador",
+        "estado": true,
+        "fecha_creacion": "2026-09-15T10:18:51.638791",
+        "ultimo_acceso": null
+    },
+    "Jorge": {
+        "password": "bf1436a4f3f3165b81fada391bd4b32746e2d8a6ba577022fcb97d78491dab29",
+        "nombre": "Jorge Mamani",
+        "cargo": "analista de datos",
+        "rol": "Usuario",
+        "estado": true,
+        "fecha_creacion": "2026-09-16T14:00:19.989986",
+        "ultimo_acceso": null
+    }
+}

@@ -1,0 +1,30 @@
+ESCUELA MILITAR DE INGENIERIA
+Reporte de Percepción Institucional
+============================================================
+
+Título: Reporte de Percepción Institucional — EMI UALP
+Periodo: Último trimestre
+Fuente: Todas las fuentes
+Dirigido a: Dirección Académica EMI-UALP
+Fecha de generación: 15/09/2026 14:08
+============================================================
+
+1. RESUMEN EJECUTIVO
+------------------------------------------------------------
+Se analizaron 54 publicaciones.
+Percepción positiva: 5 (9.3%)
+Percepción negativa: 8 (14.8%)
+Percepción neutral: 41 (75.9%)
+
+2. FACTORES DE PERCEPCION IDENTIFICADOS
+------------------------------------------------------------
+- Dirección y Jefaturas: 4 menciones (-75.0% sent. neto)
+- Acoso y Conflictos: 2 menciones (-50.0% sent. neto)
+- Costos y Aranceles: 2 menciones (-50.0% sent. neto)
+- Calidad Académica: 9 menciones (-11.1% sent. neto)
+- Gestión Militar: 3 menciones (+0.0% sent. neto)
+- Atención al Estudiante: 2 menciones (+0.0% sent. neto)
+
+============================================================
+Reporte generado automáticamente por el Sistema de Percepción Institucional
+Escuela Militar de Ingeniería - Unidad Académica La Paz
